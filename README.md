@@ -1,5 +1,5 @@
 <h1 align="center" font>Hello 👋 Hallo :smiley:</h1>
-<h3 align="left"> I am currently pursuing B.Tech in Computer Science and Technology. I love to explore different fields available and keen to learn more about App Development, Machine Learning and Artificial Intelligence, Cloud Computing and find more such interesting fields</h3>
+<h3 align="left"> Spring Boot | Microservices | Android Application Development</h3>
 
 - 🌱 I’m currently learning **App Development | Machine Learning**
 
