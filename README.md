@@ -1,7 +1,7 @@
 <h1 align="center" font>Hello 👋 Hallo :smiley:</h1>
 <h3 align="left"> Spring Boot | Microservices | Android Application Development</h3>
 
-- 🌱 I’m currently learning **App Development | Machine Learning**
+- 🌱 I’m currently working on **Backend Java Development | Spring Boot | Microservices | App Development**
 
 - 💬 Ask me about **C++ | Python | Kotlin**
 
