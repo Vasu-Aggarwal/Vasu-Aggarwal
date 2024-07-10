@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on **Backend Java Development | Spring Boot | Microservices | App Development**
 
-- 💬 Ask me about **C++ | Python | Kotlin**
+- 💬 Ask me about **JAVA | Spring Boot | Android Development**
 
 - 📫 How to reach me **svasu.sv95@gmail.com**
 <br>
