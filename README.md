@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JAVA | Spring Boot | Android Development**
 
-- 📫 How to reach me **svasu.sv95@gmail.com**
+- 📫 How to reach me **vasuaggarwal0402@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
